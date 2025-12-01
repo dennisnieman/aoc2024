@@ -1,7 +1,3 @@
-file = open('input.txt')
-inp = file.readlines()
-file.close()
-
 safe = 0
 for i in inp:
     report = i.split()

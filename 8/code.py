@@ -1,7 +1,3 @@
-from os import chdir
-chdir('/Users/dennisnieman/Documents/python projects/aoc2024/8')
-
-from numpy import array
 
 file = open('input.txt')
 inp = file.readlines()

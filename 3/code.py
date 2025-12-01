@@ -1,8 +1,4 @@
 
-file = open('input.txt')
-inp = file.readlines()
-file.close()
-
 out = 0
 for i in inp:
     i0 = 0

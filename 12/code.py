@@ -1,6 +1,3 @@
-from os import chdir
-chdir('/Users/dennisnieman/Documents/python projects/aoc2024/12')
-
 file = open('input.txt')
 inp = file.readlines()
 file.close()
